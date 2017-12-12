@@ -2,8 +2,8 @@
 from moviepy.editor import *
 import pysrt
 from moviepy.editor import concatenate_audioclips
-from t1 import sub_to_audio
-from spped import speed_adjust
+from tts_it import sub_to_audio
+from speed import speed_adjust
 
 # Load your movie
 # Give proper path to your movie
